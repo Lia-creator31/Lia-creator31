@@ -1,10 +1,6 @@
 ## Hi👋, This is Nur Zakiyyah
-<a href="https://www.linkedin.com/in/nur-zakiyyah-/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Nur Zakiyyah-blue?style=flat&logo=linkedin&labelColor=blue" alt="linkedin"/>
-</a>
-<a href="mailto:liazakiyyah08@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-liazakiyyah08@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="gmail"/>
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-rajk3770-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nur-zakiyyah-/)]
+[![Gmail Badge](https://img.shields.io/badge/-liazakiyyah08@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:liazakiyyah08@gmail.com)]
 
 
 
