@@ -10,6 +10,9 @@
         <img align="center" src="https://img.shields.io/badge/-Lia Zakiyyah08-red?color=DD2A7B&logo=instagram&logoColor=white"/>
     </a>
 </div>
+<p align='left'> I am a recent graduate with a Bachelor's degree in Computer Engineering from <a href='https://www.pens.ac.id/en/'><u>Surabaya State Electronics Polytechnic</u>.</a> 
+
+I always try to learn new technologies to fulfill my curiosity and increase my skill set. I love to work on projects which make a difference in society and will always be open to such oppurtunities. I am ready to work under pressure with tight deadlines and committed to continuously learning and accepting new challenges in this technology field.</p>
 
 
 
