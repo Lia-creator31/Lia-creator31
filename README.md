@@ -22,6 +22,9 @@
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=007396)&nbsp;
 ![XML](https://img.shields.io/badge/XML-05122A?style=flat&logo=xml&logoColor=9B6A0F)&nbsp;
+![Common Lisp](https://img.shields.io/badge/Common%20Lisp-05122A?style=flat)&nbsp;
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![IoT](https://img.shields.io/badge/IoT-05122A?style=flat&logo=internet-of-things&logoColor=7F9CF5)&nbsp;
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
